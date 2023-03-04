@@ -1,0 +1,64 @@
+
+body {
+  background-image: url('../images/DSC_0116.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  height: 60vh;
+}
+
+h1 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: left;
+  margin-top: 300px;
+  margin-left: 10px;
+  font-size: 500%;
+  padding: 0px;
+  color: #fff;
+}
+  
+h2 {
+  font-family:'Times New Roman', Times, serif;
+  text-align: left;
+  margin-left: 15px;
+  margin-top: -50px;
+  padding: 0px;
+  color: #fff;
+}
+
+#gallery-btn button {
+  position: absolute;
+  left: 2%;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px 25px;
+}
+
+#insta-btn img {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 1%;
+  top: 2px;
+  }
+
+#gallery-btn2 button{
+  position: absolute;
+  font-family: 'Times New Roman', Times, serif;
+  top: 27px;
+  right: 17%;
+  font-size: 20px;
+  padding: 5px 15px;
+}
+
+#about-btn button{
+  position: absolute;
+  font-family: 'Times New Roman', Times, serif;
+  top: 27px;
+  right: 8%;
+  font-size: 20px;
+  padding: 5px 15px;
+}

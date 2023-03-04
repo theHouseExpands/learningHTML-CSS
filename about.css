@@ -1,0 +1,28 @@
+body {
+    background-color: #92A1B4;
+}
+
+#gal-about-btn button{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    top: 27px;
+    right: 8%;
+    font-size: 20px;
+    padding: 5px 15px;
+}
+#about-home-btn button{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    top: 27px;
+    right: 17%;
+    font-size: 20px;
+    padding: 5px 15px;
+  }
+
+#about-insta-btn img {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    right: 1%;
+    top: 2px;
+}
